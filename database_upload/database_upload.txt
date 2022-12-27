@@ -1,0 +1,1 @@
+load a database to phpmyadmin
